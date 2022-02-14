@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = eva.lampin@hotmail.fr
+	name = eva lampin
